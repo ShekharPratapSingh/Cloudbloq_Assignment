@@ -1,0 +1,54 @@
+img{
+    width: 100%;
+    background-size: cover;
+    height: 326px;
+}
+.col-md-12{
+    padding: 0px;
+    margin: 0px;
+}
+.body{
+    height: 150vh;
+    background-color:#ececec;
+}
+.category{
+    margin: 20px;
+    font-weight: 500;
+}
+.list-group-item{
+    border: none;
+}
+.food{
+    text-align: center;
+}
+.food img{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+
+}
+.foodname{
+    text-align: center;
+    font-weight: 500;
+}
+.suggest img{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    margin-right: 4px;
+}
+.card{
+    position: relative;
+    bottom: 140px;
+    box-shadow: 1px 1px 4px 1px black;
+}
+.text{
+    width: 20%;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 150px;
+    color: white;
+    left: 20px;
+
+}
